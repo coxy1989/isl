@@ -2,7 +2,7 @@
 
 [*An Introduction to Statistical Learning with applications in R*](http://www-bcf.usc.edu/~gareth/ISL/) [1] is a classic textbook written by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. This repository contains my solutions to the labs and exercises, I follow in Python rather than R, with heavy use of: `numpy`, `pandas`, `sklearn`, `matplotlib`, `seaborn`, `patsy` and `statsmodels`.
 
-<img src='http://www-bcf.usc.edu/~gareth/ISL/Noah.jpg' width=30%, margin-left=auto, margin-right=auto, display=block>
+![isl](./isl.jpg)
 
 ## Quickstart
 
